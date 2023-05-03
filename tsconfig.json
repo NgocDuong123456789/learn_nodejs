@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "module": "NodeNext",
+      "esModuleInterop": true,
+      "target": "es2018",
+      "moduleResolution": "node",
+      "sourceMap": true,
+      "outDir": "dist",
+      "noImplicitAny": true,
+      "baseUrl": "src"
+    },
+   "include": ["src/**/*", "config"],
+  }
